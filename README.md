@@ -1,12 +1,12 @@
-# organo
+# react-base-organo
 
-organo is a dynamic organizational chart web application built using React. Visualize hierarchical structures with ease and explore relationships within your organization..
+react-base-organo is a dynamic organizational chart web application built using React. Visualize hierarchical structures with ease and explore relationships within your organization..
 
 ## Demo
 
-![Demo of organo](https://gitlab.com/olooeez/organo/-/raw/main/img/demo.png)
+![Demo of react-base-organo](https://gitlab.com/olooeez/react-base-organo/-/raw/main/img/demo.png)
 
-You can find a live demo by clicking [here](https://reaorgano.netlify.app).
+You can find a live demo by clicking [here](https://react-base-organo.netlify.app).
 
 ## Prerequisites
 
@@ -23,7 +23,7 @@ Before getting started, make sure you have the following requirements installed 
 Clone this repository to your desired folder on your machine:
 
 ```
-git clone https://gitlab.com/olooeez/organo.git
+git clone https://gitlab.com/alura-courses-code/react/react-base-organo.git
 ```
 
 ### Step 2: Install dependencies
@@ -31,7 +31,7 @@ git clone https://gitlab.com/olooeez/organo.git
 Navigate to the project directory and install the dependencies using NPM:
 
 ```
-cd organo
+cd react-base-organo
 npm install
 ```
 
@@ -51,4 +51,4 @@ If you wish to contribute to this project, feel free to open a merge request. We
 
 ## License
 
-This project is licensed under the [MIT](https://gitlab.com/olooeez/organo/-/blob/main/LICENSE). Refer to the LICENSE file for more details.
+This project is licensed under the [MIT](https://gitlab.com/alura-courses-code/react/react-base-organo/-/blob/main/LICENSE). Refer to the LICENSE file for more details.
