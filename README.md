@@ -4,7 +4,7 @@ react-base-organo is a dynamic organizational chart web application built using 
 
 ## Demo
 
-![Demo of react-base-organo](https://gitlab.com/olooeez/react-base-organo/-/raw/main/img/demo.png)
+![Demo of react-base-organo](https://gitlab.com/alura-courses-code/react/react-base-organo/-/raw/main/img/demo.png)
 
 You can find a live demo by clicking [here](https://react-base-organo.netlify.app).
 
