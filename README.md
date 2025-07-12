@@ -4,7 +4,7 @@ react-base-organo is a dynamic organizational chart web application built using 
 
 ## Demo
 
-![Demo of react-base-organo](https://gitlab.com/alura-courses-code/react/react-base-organo/-/raw/main/img/demo.png)
+![Demo of react-base-organo](https://github.com/luizvilasboas/react-base-organo/blob/da115f490130789c6755b6c4123b52fa45d426c5/img/demo.png?raw=true)
 
 You can find a live demo by clicking [here](https://react-base-organo.netlify.app).
 
@@ -23,7 +23,7 @@ Before getting started, make sure you have the following requirements installed 
 Clone this repository to your desired folder on your machine:
 
 ```
-git clone https://gitlab.com/alura-courses-code/react/react-base-organo.git
+git clone https://github.com/luizvilasboas/react-base-organo.git
 ```
 
 ### Step 2: Install dependencies
@@ -51,4 +51,4 @@ If you wish to contribute to this project, feel free to open a merge request. We
 
 ## License
 
-This project is licensed under the [MIT](https://gitlab.com/alura-courses-code/react/react-base-organo/-/blob/main/LICENSE). Refer to the LICENSE file for more details.
+This project is licensed under the [MIT](https://github.com/luizvilasboas/react-base-organo/blob/main/LICENSE). Refer to the LICENSE file for more details.
